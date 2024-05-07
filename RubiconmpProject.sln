@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubiconmpProject", "RubiconmpProject\RubiconmpProject.csproj", "{359F29B9-5BEB-45FC-94DE-DCD1DEBC439F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubiconmpProjectTest", "RubiconmpProjectTest\RubiconmpProjectTest.csproj", "{84349634-AAAF-4A49-A380-DF5F3D5A0FD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{359F29B9-5BEB-45FC-94DE-DCD1DEBC439F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359F29B9-5BEB-45FC-94DE-DCD1DEBC439F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359F29B9-5BEB-45FC-94DE-DCD1DEBC439F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359F29B9-5BEB-45FC-94DE-DCD1DEBC439F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84349634-AAAF-4A49-A380-DF5F3D5A0FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84349634-AAAF-4A49-A380-DF5F3D5A0FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84349634-AAAF-4A49-A380-DF5F3D5A0FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84349634-AAAF-4A49-A380-DF5F3D5A0FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE05F53E-9CBB-4C3C-BFA9-B725BE86DFAB}
+	EndGlobalSection
+EndGlobal
